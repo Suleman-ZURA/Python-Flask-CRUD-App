@@ -29,3 +29,6 @@ pip install Flask
 ## Preview
 
 ![screenshot](preview.png)
+
+## CI/CD Pipeline
+Automated Docker build and push via GitHub Actions.
